@@ -1,0 +1,9 @@
+.cantainer {
+    margin: 40px;
+    display: flex !important;
+    justify-content: space-between;
+}
+
+.card-container {
+    display: flex;
+}
